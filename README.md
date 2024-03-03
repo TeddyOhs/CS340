@@ -14,7 +14,7 @@ Integrating with different database systems by extending the module's functional
 Implementing additional CRUD operations or advanced querying features.
 Incorporating error handling and logging to enhance robustness.
 Problem-solving Approach as a Computer Scientist
-As a computer scientist, approaching problems involves systematic analysis, breaking down complex tasks, and employing efficient solutions. In this project, we addressed Grazioso Salvare's database and dashboard requirements by:
+As a computer scientist, approaching problems involves systematic analysis, breaking down complex tasks, and employing efficient solutions. In this project, I addressed Grazioso Salvare's database and dashboard requirements by:
 -	Understanding the client's needs and data structure.
 -	Designing a solution using the MVC pattern, leveraging MongoDB for data storage and dashboard widgets for visualization.
 -	Employing the CRUD module to facilitate interactions between the dashboard and the database.
